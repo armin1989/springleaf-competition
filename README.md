@@ -15,3 +15,7 @@ To run visit: https://www.kaggle.com/armin1989/springleaf-competition-data-prepa
 
 To run visit: https://www.kaggle.com/armin1989/springleaf-competition-first-classifiers or download necessary data into local storage
 
+- springleaf-competition-mlp : A python script training a multi-layered perceptron (deep neural network with fully connected layers) for the classification problem. This script uses tensorflow to create the network and train it
+
+To run visit: https://www.kaggle.com/armin1989/springleaf-competition-mlp?scriptVersionId=10124259
+
